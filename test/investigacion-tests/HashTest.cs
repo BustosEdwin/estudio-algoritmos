@@ -1,6 +1,4 @@
 
-using Xunit;
-using System.Collections.Generic;
 using estudio.hash_table.hash_encadenamiento_simple;
 
 namespace investigacion_tests;
